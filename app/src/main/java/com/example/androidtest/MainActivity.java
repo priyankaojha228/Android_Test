@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         finish();
     }*/
 
-    public void fun(View view)
+    public void friend_function(View view)
     {
         final String[] friends = {"Dipisha", "Purvi", "Abhay", "Suhani", "Rashmi"};
         Random random = new Random();
